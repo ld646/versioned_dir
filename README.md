@@ -1,8 +1,5 @@
 #this is new file
 
-Hello everyone
-new line
-again new line
-Hi
-
-Cat goes meow
+Hello
+This is a newmy first readme file.
+New comments will be addded later.
